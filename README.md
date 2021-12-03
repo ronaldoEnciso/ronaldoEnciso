@@ -1,5 +1,5 @@
 <b>¿Quién soy?</b><br>
-  Hola me llamo Ronaldo Enciso, desempeño en el área de desarrollo de software.
+  Hola me llamo Ronaldo Enciso, y me desempeño en el área de desarrollo de software.
   
 <b>Lenguajes que he aprendido</b>
   - C#
