@@ -1,4 +1,4 @@
-<b>¿Quién soy?</b>
+<b>¿Quién soy?</b><br>
   Hola me llamo Ronaldo Enciso, desempeño en el área de desarrollo de software.
   
 <b>Lenguajes que he aprendido</b>
@@ -10,5 +10,5 @@
   - Php
   - Java
   
-<b>Contácteme</b>
+<b>Contácteme</b><br>
   GMAIL: ronaldoencisoluque@gmail.com
