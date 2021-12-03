@@ -1,11 +1,8 @@
-<b>Quién soy</b>
-
-- 👋 Hi, I’m @ronaldoEnciso
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning C#
-- 📫 How to reach me ronaldoencisoluque@gmail.com
-
-<!---
-ronaldoEnciso/ronaldoEnciso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>¿Quién soy?</b>
+  Hola me llamo Ronaldo Enciso, desempeño en el área de desarrollo de software.
+  
+<b>Lenguajes que he aprendido</b>
+  - C#, C, C++, Js, Python, PHP y Java.
+  
+<b>Contácteme</b>
+  GMAIL: ronaldoencisoluque@gmail.com
